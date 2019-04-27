@@ -3,7 +3,7 @@
 ###This repo contains a simple web page done for subject "Project Management IT".
 
 
-Too see the web page you can write this on your browser https://github.com/alisaro or [Click Here ](https://github.com/eulselmo).
+Too see the web page you can write this on your browser https://albertorsn.github.io/TravelPhotoGallery/ or [Click Here ](https://albertorsn.github.io/TravelPhotoGallery/s).
 
 
 The project has been developed by:

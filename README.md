@@ -1,9 +1,9 @@
 # TRAVEL PHOTO GALLERY 
 
-### This repo contains a simple web page done for subject "Project Management IT".
+This repo contains a simple web page done for subject **"Project Management IT"**.
 
 
-Too see the web page [Click Here ](https://albertorsn.github.io/TravelPhotoGallery/s).
+Too see the web page [Click Here ](https://albertorsn.github.io/TravelPhotoGallery/).
 
 
 The project has been developed by:
